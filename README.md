@@ -1,7 +1,7 @@
 # nia
 github
 
-commit
+pull
 
 hash
 branch
