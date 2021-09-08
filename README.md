@@ -2,3 +2,7 @@
 github
 
 commit
+
+hash
+branch
+merge
